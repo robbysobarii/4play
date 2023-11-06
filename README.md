@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Developer 
 
-[Robby Sobari](https://github.com/robbysobarii)
-Syauqi
+- [Robby Sobari](https://github.com/robbysobarii)
+- Syauqi
